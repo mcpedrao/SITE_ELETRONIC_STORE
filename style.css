@@ -5,19 +5,25 @@ header {
 
 .cabecalho {
     color:white;
-    margin: center;
+    margin: left : 660PX;
+    text-align: center;
+    display: flex;
 }
 
 .cabecalho-lista-1{
 color: white;
-margin-left: 40px; /* alinhamento a esquerda */
-padding: 20px; /* espaçamento vertical */
+margin-left: 260px; /* alinhamento a esquerda */
+padding: 40px; /* espaçamento vertical */
+display: inline-block;
+justify-content: center;
 }
 
 .cabecalho-lista-2 {
     color:#ffffff;
-    margin-left: 40px;
-    padding: 20px;
+    margin-left: 260px;
+    padding: 40px;
+    display: inline-block;
+    justify-content: center;
 }
 
 body{
