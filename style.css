@@ -5,7 +5,7 @@ header {
 
 .cabecalho {
     color:white;
-    margin: left : 660PX;
+    margin-left: 660px;
     text-align: center;
     display: flex;
 }
@@ -35,4 +35,20 @@ body{
     color:black;
     margin:center;
     
+}
+
+.preco-1{
+    width: 25%;
+    display: inline-block;
+    margin-left: 15px;
+    margin-right: 50px;
+    text-align: center;
+}
+
+.preco-2 {
+    width: 25%;
+    display: inline-block;
+    margin-left: 15px;
+    margin-right: 50px;
+    text-align: center;
 }
